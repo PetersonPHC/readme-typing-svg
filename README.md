@@ -109,6 +109,7 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 [![mateusadada](https://github.com/mateusadada.png?size=60)](https://github.com/mateusadada "mateusadada on Github")
 [![fasakinhenry](https://github.com/fasakinhenry.png?size=60)](https://github.com/fasakinhenry "fasakinhenry on Github")
 [![YousifAbozid](https://github.com/YousifAbozid.png?size=60)](https://github.com/YousifAbozid "YousifAbozid on Github")
+[![PetersonPHC](https://github.com/PetersonPHC.png?size=60)](https://github.com/PetersonPHC "PetersonPHC on Github")
 
 Feel free to [open a PR](https://github.com/DenverCoder1/readme-typing-svg/issues/21#issue-870549556) and add yours!
 
